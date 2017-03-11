@@ -28,6 +28,15 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Clients
 
+  -- [SolrJ](https://cwiki.apache.org/confluence/display/solr/Using+SolrJ) Java Solr Client
+  -- [SolrNet](https://github.com/mausch/SolrNet) .NET Solr Client 
+  
+  -- [Solr Scala Client](https://github.com/takezoe/solr-scala-client)
+  -- [solrs](https://github.com/inoio/solrs) An async, non-blocking solr client for java/scala, providing a query interface like SolrJ
+  -- [Scalikesolr](https://github.com/seratch/scalikesolr) Apache Solr Client for Scala/Java
+
+  -- [Python Solr Clients](https://wiki.apache.org/solr/SolPython)
+
 ### Interfaces
 
 ## Resources
@@ -35,6 +44,7 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 ### Documentation
 
   - [Official Solr Documentation](http://lucene.apache.org/solr/resources.html#documentation)
+  - [Solr Reference Guide](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)
   - [Solr Community Wiki](https://wiki.apache.org/solr)
 
 ### Books
