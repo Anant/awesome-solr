@@ -34,6 +34,9 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Documentation
 
+  - [Official Solr Documentation](http://lucene.apache.org/solr/resources.html#documentation)
+  - [Solr Community Wiki](https://wiki.apache.org/solr)
+
 ### Books
 
 ### Web Sites
