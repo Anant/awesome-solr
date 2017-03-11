@@ -9,12 +9,13 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 - [Packages](#packages)
   - [Interfaces](#interfaces) User Interfaces for Solr.
   - [Tools](#tools) Applications / Plugins that use Solr.
-  - [Clients](#clients) Programming Language Specific Clients for Solr.
   - [Projects](#projects) Other projects that use Solr.
+  - [Clients](#clients) Programming Language Specific Clients for Solr.
   
 - [Resources](#resources)
   - [Documentation](#documentation) Official / unofficial documentation. 
   - [Books](#books) Popular books about Solr.
+  - [Tutorials](#tutorials) Step by step tutorials on Solr.
   - [Web Sites](#web-sites) Sites ( not blogs ) on Solr.
   - [Blogs](#blogs) from Solr experts.
   - [Docker Images](#docker-images) Docker Images / Composures w/ Solr.
@@ -22,7 +23,8 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ## General
 
-  -- TODO 
+  - [Apache Solr](http://lucene.apache.org/solr/)
+  - []
 
 ## Packages
 
@@ -36,12 +38,28 @@ Add topics.
   - [Spyglass](https://github.com/o19s/Spyglass) Simple search results with Solr and EmberJS.
   - [Splainer](https://github.com/o19s/splainer-search) Angular JS Solr and Elasticsearch Diagnostic Search Services.
   - [Solrstrap](https://github.com/fergiemcdowall/solrstrap) Solrstrap is a Query-Result interface for Solr. 
+  - [ngSolr](http://www.davismarques.com/projects/ngsolr/) Easy faceted search for Apache Solr.
+  - [SOLR-AJAX](https://bitbucket.org/esrc/eaccpf-ajax) Single Page Faceted Search Interface to Apache Solr/Lucene.
+  - [Solstice](https://github.com/front/solstice) A simple Solr wrapper for AngularJS apps.
 
 ### Tools
 
   - [WPSolr Search Engine WordPress Plugin](https://wordpress.org/plugins/wpsolr-search-engine/) Search 10 times faster with Elasticsearch or Apache Solr with lots of data - WPSOLR.
   - [Apache Solr Search Drupal Plugin](https://www.drupal.org/project/apachesolr) This module integrates Drupal with the Apache Solr search platform. 
   - [Drupal Search API Solr Plugin](https://www.drupal.org/project/search_api_solr) This module provides a Solr backend for the [Search API](https://www.drupal.org/project/search_api) module.
+  - [Solr proxies](https://github.com/evolvingweb/ajax-solr/wiki/Solr-proxies) Simple solr proxies implemented in PHP, Node.js, Java, or NGINX.
+  
+### Projects
+
+  - [Transformalize](https://github.com/dalenewman/Transformalize/) This tool expedites mundane data processing tasks like cleaning, reporting, and denormalization. Specifically can quickly process data from SQL/MySQL/PostgreSQL to Solr/ Elasticsearch.
+  - [JesterJ](https://github.com/nsoft/jesterj) A new highly flexible, highly scaleable document ingestion system.
+  - [Spark-Solr](https://github.com/lucidworks/spark-solr) Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.
+  - [Flink Solr Connector](https://github.com/naveenmadhire/flink-solr-connector) Apache Flink Sink for Solr.
+  - [Apache Flume](https://flume.apache.org/) Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. 
+  - [Storm Solr](https://github.com/lucidworks/storm-solr) Tools for building Storm topologies for indexing data into SolrCloud.
+  - [Kafka Connector for Solr Sink(https://github.com/MSurendra/kafka-connect-solr) Kafka Connect Solr for writing data to Solr. 
+  - [SolrMQ](https://github.com/tangentlabs/SolrMQ) SolrMQ is a plugin for Solr that allows you to send updates to Solr using a AMQP messaging queue. We use the RabbitMQ library.
+
 
 ### Clients
 
@@ -91,13 +109,25 @@ TODO : Need to get more books, and then order by reading level.
   - [Apache Solr 3.1 Cookbook]
   - [Einführung in Apache Solr (German)]
 
-### Web Sites
+### Tutorials
 
   - [Solr Quickstart](http://lucene.apache.org/solr/quickstart.html) 
   - [Solr Tutorial](http://www.solrtutorial.com/) The goal of SolrTutorial.com is to provide a gentle introduction into Solr.
+  - [Solr tutorial](http://yonik.com/solr-tutorial/) by Yonik Seely, creator of Solr. 
+  - 
 
-### Blogs
-  - TODO 
+### Websites
+
+  - [Search Hub](https://lucidworks.com/resources/searchhub/#hub/) Search across millions of pages related to Search.
+  - [Solr Start](http://www.solr-start.com/) accelerating your proficiency with Solr search engine.
+
+### Blogs 
+  
+  - [Solr'n Stuff](http://yonik.com/) Yonik Seely's Blog. Creator of Solr. 
+  - [Open Source Connections](http://opensourceconnections.com/blog/) Experts on Solr. 
+  - [Lucidworks Blog](https://lucidworks.com/blog/) Blog by Lucidworks. 
+  - [Sematext Blog](https://sematext.com/blog/) Blog by Sematext. 
+
 
 ### Docker Images
   - [solr](https://hub.docker.com/_/solr/) Official. Supports 5.x and 6.x.
