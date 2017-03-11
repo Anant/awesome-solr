@@ -76,7 +76,20 @@ Add topics.
   - [Solr Community Wiki](https://wiki.apache.org/solr)
 
 ### Books
-  - TODO : Get from Solr site. 
+
+TODO : Need to get more books, and then order by reading level. 
+
+  - [Apache Solr Enterprise Search Server, 3rd Edition]
+  - [Scaling Big Data with Hadoop and Solr - Second Edition]
+  - [Apache Solr Search Patterns]
+  - [Mastering Apache Solr]
+  - [Solr in Action]
+  - [Instant Apache Solr for Indexing Data How-to]
+  - [Taming Text]
+  - [Solr Cookbook - Third Edition]
+  - [Apache Solr 4 Cookbook]
+  - [Apache Solr 3.1 Cookbook]
+  - [Einführung in Apache Solr (German)]
 
 ### Web Sites
 
