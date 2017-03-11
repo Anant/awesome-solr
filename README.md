@@ -20,7 +20,6 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
   - [Docker Images](#docker-images)
   - [Videos](#videos)
 
-
 ## General
 
 ## Packages
@@ -42,7 +41,6 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
   - [Solr Tutorial](http://www.solrtutorial.com/) The goal of SolrTutorial.com is to provide a gentle introduction into Solr.
 
 
-
 ### Blogs
 
 ### Docker Images
@@ -50,8 +48,16 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 ### Videos
 
 
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 
