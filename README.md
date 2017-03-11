@@ -36,13 +36,28 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
   -- [Solr Scala Client](https://github.com/takezoe/solr-scala-client).
   -- [solrs](https://github.com/inoio/solrs) An async, non-blocking solr client for java/scala, providing a query interface like SolrJ.
   -- [Scalikesolr](https://github.com/seratch/scalikesolr) Apache Solr. Client for Scala/Java.
+  -- [Solr Play Scala Client](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) A Scala library in Play framework for indexing and searching documents within an Apache Solr.
   -- [Python Solr Clients](https://wiki.apache.org/solr/SolPython) Reference to multiple Python Solr Clients. 
-  -- [SolrClient](https://github.com/moonlitesolutions/SolrClient) SolrClient is a simple python library for Solr; built in python3 with support for latest features of Solr.
+  -- [Python:SolrClient](https://github.com/moonlitesolutions/SolrClient) SolrClient is a simple python library for Solr; built in python3 with support for latest features of Solr.
+  -- [mysolr](http://mysolr.readthedocs.io/en/latest/) mysolr was born to be a fast and easy-to-use client for Apache Solr’s API and because existing Python clients didn’t fulfill these conditions.
   -- [rsolr](https://github.com/rsolr/rsolr) A ruby client for Solr.
   -- [Sunspot](http://sunspot.github.io/) Solr-powered search for Ruby objects.
+  -- [Solarium](http://www.solarium-project.org/) Solarium is a Solr client library for PHP.
+  -- [Solr PHP extension](http://php.net/manual/en/intro.solr.php) The Solr extension allows you to communicate effectively with the Apache Solr Server in PHP.
+  -- [Go-Solr](https://github.com/rtt/Go-Solr) A solr library written in Go.
+  -- [go-solr](https://github.com/vanng822/go-solr) Solr client in Go, core admin, add docs, update, delete, search and more.
+  -- [CPAN Apache::Solr](http://search.cpan.org/~markov/Apache-Solr/) Perl Apache Solr.
+
 
 ### Interfaces
-  -- TODO 
+  -- [Appleseed Search Web User](https://github.com/Appleseed/search-web-user) Appleseed Search Web User interfaces - Angular JS 1 Search Interfaces for SolR, Elastic Edit
+Add topics.
+  -- [Blacklight](http://projectblacklight.org/) A multi-institutional open-source collaboration building a better discovery platform framework.
+  -- [Solr PHP UI](https://www.opensemanticsearch.org/solr-php-ui/) Solr client and user interface for search (UI).
+  -- [AJAX Solr](https://github.com/evolvingweb/ajax-solr) AJAX Solr is a JavaScript library for creating user interfaces to Apache Solr.
+  -- [Spyglass](https://github.com/o19s/Spyglass) Simple search results with Solr and EmberJS.
+  -- [Splainer](https://github.com/o19s/splainer-search) Angular JS Solr and Elasticsearch Diagnostic Search Services.
+
 
 ## Resources
 
@@ -54,12 +69,11 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Books
   - TODO : Get from Solr site. 
-  
+
 ### Web Sites
 
   - [Solr Quickstart](http://lucene.apache.org/solr/quickstart.html) 
   - [Solr Tutorial](http://www.solrtutorial.com/) The goal of SolrTutorial.com is to provide a gentle introduction into Solr.
-
 
 ### Blogs
   - TODO 
