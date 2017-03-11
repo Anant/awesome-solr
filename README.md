@@ -39,6 +39,10 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Web Sites
 
+  - [Solr Tutorial](http://www.solrtutorial.com/) The goal of SolrTutorial.com is to provide a gentle introduction into Solr.
+
+
+
 ### Blogs
 
 ### Docker Images
