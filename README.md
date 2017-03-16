@@ -24,7 +24,7 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 ## General
 
   - [Apache Solr](http://lucene.apache.org/solr/)
-  - []
+  - [Wikipedia: Apache Solr](https://en.wikipedia.org/wiki/Apache_Solr)
 
 ## Packages
 
