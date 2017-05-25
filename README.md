@@ -111,6 +111,7 @@ TODO : Need to get more books, and then order by reading level.
   - [Scaling Solr](https://www.amazon.com/Scaling-Apache-Hrishikesh-Vijay-Karambelkar/dp/1783981741/)
   - [Apache Solr 4 Cookbook]
   - [Apache Solr 3.1 Cookbook]
+  - [Apache Solr 5.x: Beginner's Guide](https://www.amazon.com/Apache-Solr-5-x-Beginners-Guide/dp/1785282433/)
   - [Einführung in Apache Solr (German)]
 
 ### Tutorials
