@@ -97,8 +97,8 @@ Add topics.
 
 TODO : Need to get more books, and then order by reading level. 
 
-  - [Apache Solr Enterprise Search Server, 3rd Edition]
-  - [Scaling Big Data with Hadoop and Solr - Second Edition]
+  - [Apache Solr Enterprise Search Server, 3rd Edition](https://www.amazon.com/Apache-Solr-Enterprise-Search-Server/dp/1782161368/)
+  - [Scaling Big Data with Hadoop and Solr - Second Edition]()
   - [Apache Solr Search Patterns]
   - [Mastering Apache Solr]
   - [Solr in Action]
