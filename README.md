@@ -109,6 +109,7 @@ TODO : Need to get more books, and then order by reading level.
   - [Taming Text]
   - [Solr Cookbook - Third Edition]
   - [Scaling Solr](https://www.amazon.com/Scaling-Apache-Hrishikesh-Vijay-Karambelkar/dp/1783981741/)
+  - [Enterprise Lucene & Solr](https://www.amazon.com/Enterprise-Lucene-Solr-Lajos-Moczar/dp/0133521761/)
   - [Apache Solr 4 Cookbook]
   - [Apache Solr 3.1 Cookbook]
   - [Apache Solr 5.x: Beginner's Guide](https://www.amazon.com/Apache-Solr-5-x-Beginners-Guide/dp/1785282433/)
