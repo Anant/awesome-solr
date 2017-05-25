@@ -102,6 +102,7 @@ TODO : Need to get more books, and then order by reading level.
   - [Apache Solr: A Practical Approach to Enterprise Search](https://www.amazon.com/Apache-Solr-Practical-Approach-Enterprise/dp/1484210719/)
   - [Apache Solr Search Patterns](https://www.amazon.com/Apache-Search-Patterns-Jayant-Kumar/dp/1783981849/)
   - [Apache Solr: Beginner's Guide](https://www.amazon.com/Apache-Beginners-Guide-Alfredo-Serafini/dp/1782162526/)
+  - [Apache Solr: Essentials](https://www.amazon.com/Apache-Solr-Essentials-Andrea-Gazzarini/dp/1784399647/)
   - [Mastering Apache Solr]
   - [Solr in Action]
   - [Instant Apache Solr for Indexing Data How-to]
