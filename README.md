@@ -108,6 +108,7 @@ TODO : Need to get more books, and then order by reading level.
   - [Instant Apache Solr for Indexing Data How-to]
   - [Taming Text]
   - [Solr Cookbook - Third Edition]
+  - [Scaling Solr](https://www.amazon.com/Scaling-Apache-Hrishikesh-Vijay-Karambelkar/dp/1783981741/)
   - [Apache Solr 4 Cookbook]
   - [Apache Solr 3.1 Cookbook]
   - [Einführung in Apache Solr (German)]
