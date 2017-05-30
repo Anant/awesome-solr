@@ -1,5 +1,7 @@
 # Awesome Solr [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Solr is a Web Service (REST) that provides applications API access to create and manage search indices (Collections) that behave like a NoSQL storage for Documents with Fields. The data saved in a collection of Solr documents can be queried using a variety of query syntaxes, most commonly the Lucene query syntax, or later dismax, or edismax. Solr's web server based on Jetty wraps the Lucene API with a web service so that developers and applications don't need to do the housekeeping involved in managing the index files themselves. 
+
 A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages and resources. Maintained by Rahul Singh of [Anant](http://anant.us). Feel free contact me if you'd like to collaborate on this and other awesome lists. 
 
 ## Contents
