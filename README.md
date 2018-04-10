@@ -43,6 +43,7 @@ Add topics.
   - [ngSolr](http://www.davismarques.com/projects/ngsolr/) Easy faceted search for Apache Solr.
   - [SOLR-AJAX](https://bitbucket.org/esrc/eaccpf-ajax) Single Page Faceted Search Interface to Apache Solr/Lucene.
   - [Solstice](https://github.com/front/solstice) A simple Solr wrapper for AngularJS apps.
+  - [SolrDora](https://github.com/hectorcorrea/solrdora) A quick and easy way to explore the data in your Solr core.
 
 ### Tools
 
