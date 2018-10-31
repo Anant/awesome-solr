@@ -117,6 +117,7 @@ TODO : Need to get more books, and then order by reading level.
   - [Apache Solr 3.1 Cookbook]
   - [Apache Solr 5.x: Beginner's Guide](https://www.amazon.com/Apache-Solr-5-x-Beginners-Guide/dp/1785282433/)
   - [Einführung in Apache Solr (German)]
+  - [Fusion in Action](https://www.manning.com/books/fusion-in-action)
 
 ### Tutorials
 
