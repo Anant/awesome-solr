@@ -53,32 +53,36 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
     - Last Commit: 11/2017 / Checked: 3/28/2020.
   - [SolrDora](https://github.com/hectorcorrea/solrdora) - A quick and easy way to explore the data in your Solr core written in Go.
     - Last Commit: 10/2019 / Checked: 3/28/2020.
-
-### Tools
-
   - (DISCONTINUED) [WPSolr Search Engine WordPress Plugin](https://wordpress.org/plugins/wpsolr-search-engine/) - Search 10 times faster with Elasticsearch or Apache Solr with lots of data.
     - Checked: 3/28/2020.
   - [Apache Solr Search Drupal Plugin](https://www.drupal.org/project/apachesolr) - This module integrates Drupal with the Apache Solr search platform. 
     - Last Commit: 3/2020 / Checked: 3/28/2020. 
   - [Drupal Search API Solr Plugin](https://www.drupal.org/project/search_api_solr) - This module provides a Solr backend for the [Search API](https://www.drupal.org/project/search_api) module.
     - Last Commit: 2/2020 / Checked: 3/28/2020.
+    
+### Tools
   - [Solr proxies](https://github.com/evolvingweb/ajax-solr/wiki/Solr-proxies) - Links to simple solr proxies implemented in PHP, Node.js, Java, or NGINX.
     - Last Commit: 4/2015 / Checked: 3/28/2020.
   
 ### Projects
-
-  - [Transformalize](https://github.com/dalenewman/Transformalize/) This tool expedites mundane data processing tasks like cleaning, reporting, and denormalization. Specifically can quickly process data from SQL/MySQL/PostgreSQL to Solr/ Elasticsearch.
+  - [Transformalize](https://github.com/dalenewman/Transformalize/) - Expedites mundane data processing tasks like cleaning, reporting, and denormalization. Can quickly process data from SQL/MySQL/PostgreSQL to Solr/ Elasticsearch.
+    - Last Commit: 3/2020 / Checked: 3/28/2020.
   - [JesterJ](https://github.com/nsoft/jesterj) A new highly flexible, highly scaleable document ingestion system.
-  - [Spark-Solr](https://github.com/lucidworks/spark-solr) Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.
-  - [Flink Solr Connector](https://github.com/naveenmadhire/flink-solr-connector) Apache Flink Sink for Solr.
-  - [Apache Flume](https://flume.apache.org/) Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. 
-  - [Storm Solr](https://github.com/lucidworks/storm-solr) Tools for building Storm topologies for indexing data into SolrCloud.
-  - [Kafka Connector for Solr Sink(https://github.com/MSurendra/kafka-connect-solr) Kafka Connect Solr for writing data to Solr. 
+    - Last Commit: 1/2020 / Checked: 3/28/2020.
+  - [Spark-Solr](https://github.com/lucidworks/spark-solr) - Tools by Lucidworks for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.
+    - Last Commit: 3/2020 / Checked: 3/28/2020.
+  - (DISCONTINUED) Flink Solr Connector - Naveen Madhire's Apache Flink Sink for Solr.
+    - Checked: 3/28/2020.
+  - [Apache Flume](https://flume.apache.org/) - Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. 
+    - Last Release: 1/2019 / Checked: 3/28/2020.
+  - [Storm Solr](https://github.com/lucidworks/storm-solr) - Tools by Lucidworks for building Storm topologies for indexing data into SolrCloud.
+    - Last Commit: 4/2018 / Checked: 3/28/2020.
+  - [Kafka Connector for Solr Sink](https://github.com/MSurendra/kafka-connect-solr) - Kafka Connect Solr for writing data to Solr. 
+    - Last Commit: 6/2016 / Checked: 3/28/2020.
   - [SolrMQ](https://github.com/tangentlabs/SolrMQ) SolrMQ is a plugin for Solr that allows you to send updates to Solr using a AMQP messaging queue. We use the RabbitMQ library.
-
+    - Last Commit: 8/2014 / Checked: 3/28/2020.
 
 ### Clients
-
   - [SolrJ](https://cwiki.apache.org/confluence/display/solr/Using+SolrJ) Java Solr Client.
   - [SolrNet](https://github.com/mausch/SolrNet) .NET Solr Client. 
   - [Solr Scala Client](https://github.com/takezoe/solr-scala-client).
