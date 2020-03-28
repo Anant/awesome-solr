@@ -33,19 +33,15 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Interfaces
   - [Appleseed Search Web User](https://github.com/Appleseed/search-web-user) - Part of the [Appleseed Portal open source project](https://appleseedapp.net/Home.aspx). 
-    - Last Updated: 2/2018. 
-    - Last Checked: 3/28/2020.
+    - Last Commit: 2/2018 / Checked: 3/28/2020.
   - [Blacklight](http://projectblacklight.org/) - Multi-institutional open-source collaboration building a better discovery platform framework. 
-    - Last Updated: 3/2020. 
-    - Last Checked: 3/28/2020.
+    - Last Commit: 3/2020 / Checked: 3/28/2020.
   - [Solr PHP UI](https://www.opensemanticsearch.org/solr-php-ui/) Solr client and user interface for search (UI).
   - [AJAX Solr](https://github.com/evolvingweb/ajax-solr) - A JavaScript library for creating user interfaces for Apache Solr. 
-    - Last Updated: 4/2019. 
-    - Last Checked: 3/28/2020.
+    - Last Commit: 4/2019 / Checked: 3/28/2020.
   - [Spyglass](https://github.com/o19s/Spyglass) Simple search results with Solr and Ember. 
-      - Last Updated: 3/2019. 
-      - Last Checked: 3/28/20.
-      - Project is no longer maintained as of 3/2019, available for adoption.
+    - Project is no longer maintained as of 3/2019, available for adoption.
+    - Last Commit: 3/2019 / Checked: 3/28/20.  
   - [Splainer](https://github.com/o19s/splainer-search) Angular JS Solr and Elasticsearch Diagnostic Search Services.
   - [Solrstrap](https://github.com/fergiemcdowall/solrstrap) Solrstrap is a Query-Result interface for Solr. 
   - [ngSolr](http://www.davismarques.com/projects/ngsolr/) Easy faceted search for Apache Solr.
