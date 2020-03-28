@@ -30,7 +30,6 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ## Packages
 
-
 ### Interfaces
   - [Appleseed Search Web User](https://github.com/Appleseed/search-web-user) - Part of the [Appleseed Portal open source project](https://appleseedapp.net/Home.aspx). 
     - Last Commit: 2/2018 / Checked: 3/28/2020.
@@ -52,7 +51,8 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
     - Last Commit: 3/2014 / Checked: 3/28/2020.
   - [Solstice](https://github.com/front/solstice) - A simple Solr wrapper for AngularJS apps.
     - Last Commit: 11/2017 / Checked: 3/28/2020.
-  - [SolrDora](https://github.com/hectorcorrea/solrdora) A quick and easy way to explore the data in your Solr core.
+  - [SolrDora](https://github.com/hectorcorrea/solrdora) - A quick and easy way to explore the data in your Solr core written in Go.
+    - Last Commit: 10/2019 / Checked: 3/28/2020.
 
 ### Tools
 
