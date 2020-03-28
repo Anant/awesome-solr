@@ -56,10 +56,14 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Tools
 
-  - [WPSolr Search Engine WordPress Plugin](https://wordpress.org/plugins/wpsolr-search-engine/) Search 10 times faster with Elasticsearch or Apache Solr with lots of data - WPSOLR.
-  - [Apache Solr Search Drupal Plugin](https://www.drupal.org/project/apachesolr) This module integrates Drupal with the Apache Solr search platform. 
-  - [Drupal Search API Solr Plugin](https://www.drupal.org/project/search_api_solr) This module provides a Solr backend for the [Search API](https://www.drupal.org/project/search_api) module.
-  - [Solr proxies](https://github.com/evolvingweb/ajax-solr/wiki/Solr-proxies) Simple solr proxies implemented in PHP, Node.js, Java, or NGINX.
+  - (DISCONTINUED) [WPSolr Search Engine WordPress Plugin](https://wordpress.org/plugins/wpsolr-search-engine/) - Search 10 times faster with Elasticsearch or Apache Solr with lots of data.
+    - Checked: 3/28/2020.
+  - [Apache Solr Search Drupal Plugin](https://www.drupal.org/project/apachesolr) - This module integrates Drupal with the Apache Solr search platform. 
+    - Last Commit: 3/2020 / Checked: 3/28/2020. 
+  - [Drupal Search API Solr Plugin](https://www.drupal.org/project/search_api_solr) - This module provides a Solr backend for the [Search API](https://www.drupal.org/project/search_api) module.
+    - Last Commit: 2/2020 / Checked: 3/28/2020.
+  - [Solr proxies](https://github.com/evolvingweb/ajax-solr/wiki/Solr-proxies) - Links to simple solr proxies implemented in PHP, Node.js, Java, or NGINX.
+    - Last Commit: 4/2015 / Checked: 3/28/2020.
   
 ### Projects
 
