@@ -87,7 +87,7 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 
 ### Clients
 
-  - [SolrJ](https://cwiki.apache.org/confluence/display/solr/Using+SolrJ) - Java Solr Client.
+  - [SolrJ](https://lucene.apache.org/solr/guide/8_5/using-solrj.html) - Java Solr Client.
   - [SolrNet](https://github.com/mausch/SolrNet) - .NET Solr Client. 
     - Last Commit: 11/2019 / Checked: 3/28/2020.
   - [Solr Scala Client](https://github.com/takezoe/solr-scala-client) - Scala Solr Client.
@@ -153,7 +153,8 @@ TODO : Need to get more books, and then order by reading level.
   - [Apache Solr: Essentials](https://www.amazon.com/Apache-Solr-Essentials-Andrea-Gazzarini/dp/1784399647/)
     - Published: 2/2015.
   - [Mastering Apache Solr]
-  - [Solr in Action]
+  - [Solr in Action](https://www.amazon.com/Solr-Action-Trey-Grainger/dp/1617291021)
+    - Published: 4/2014.
   - [Instant Apache Solr for Indexing Data How-to]
   - [Taming Text]
   - [Solr Cookbook - Third Edition]
