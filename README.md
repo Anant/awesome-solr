@@ -31,6 +31,7 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 ## Packages
 
 ### Interfaces
+
   - [Appleseed Search Web User](https://github.com/Appleseed/search-web-user) - Part of the [Appleseed Portal open source project](https://appleseedapp.net/Home.aspx). 
     - Last Commit: 2/2018 / Checked: 3/28/2020.
   - [Blacklight](http://projectblacklight.org/) - Multi-institutional open-source collaboration building a better discovery platform framework. 
@@ -61,10 +62,12 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
     - Last Commit: 2/2020 / Checked: 3/28/2020.
     
 ### Tools
+
   - [Solr proxies](https://github.com/evolvingweb/ajax-solr/wiki/Solr-proxies) - Links to simple solr proxies implemented in PHP, Node.js, Java, or NGINX.
     - Last Commit: 4/2015 / Checked: 3/28/2020.
   
 ### Projects
+
   - [Transformalize](https://github.com/dalenewman/Transformalize/) - Expedites mundane data processing tasks like cleaning, reporting, and denormalization. Can quickly process data from SQL/MySQL/PostgreSQL to Solr/ Elasticsearch.
     - Last Commit: 3/2020 / Checked: 3/28/2020.
   - [JesterJ](https://github.com/nsoft/jesterj) A new highly flexible, highly scaleable document ingestion system.
@@ -83,82 +86,112 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
     - Last Commit: 8/2014 / Checked: 3/28/2020.
 
 ### Clients
-  - [SolrJ](https://cwiki.apache.org/confluence/display/solr/Using+SolrJ) Java Solr Client.
-  - [SolrNet](https://github.com/mausch/SolrNet) .NET Solr Client. 
-  - [Solr Scala Client](https://github.com/takezoe/solr-scala-client).
-  - [solrs](https://github.com/inoio/solrs) An async, non-blocking solr client for java/scala, providing a query interface like SolrJ.
-  - [Scalikesolr](https://github.com/seratch/scalikesolr) Apache Solr. Client for Scala/Java.
-  - [Solr Play Scala Client](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) A Scala library in Play framework for indexing and searching documents within an Apache Solr.
-  - [Python Solr Clients](https://wiki.apache.org/solr/SolPython) Reference to multiple Python Solr Clients. 
-  - [Python:SolrClient](https://github.com/moonlitesolutions/SolrClient) SolrClient is a simple python library for Solr; built in python3 with support for latest features of Solr.
-  - [mysolr](http://mysolr.readthedocs.io/en/latest/) mysolr was born to be a fast and easy-to-use client for Apache Solr’s API and because existing Python clients didn’t fulfill these conditions.
-  - [rsolr](https://github.com/rsolr/rsolr) A ruby client for Solr.
-  - [Sunspot](http://sunspot.github.io/) Solr-powered search for Ruby objects.
-  - [Solarium](http://www.solarium-project.org/) Solarium is a Solr client library for PHP.
-  - [Solr PHP extension](http://php.net/manual/en/intro.solr.php) The Solr extension allows you to communicate effectively with the Apache Solr Server in PHP.
-  - [Go-Solr](https://github.com/rtt/Go-Solr) A solr library written in Go.
-  - [go-solr](https://github.com/vanng822/go-solr) Solr client in Go, core admin, add docs, update, delete, search and more.
-  - [Gora](https://github.com/wirelessregistry/gora) A simple Solr client for Go.
-  - [CPAN Apache::Solr](http://search.cpan.org/~markov/Apache-Solr/) Perl Apache Solr.
-  - [Solrclj](https://github.com/mlehman/solrclj) A Clojure client for Apache Solr.
-  - [flux](https://github.com/mwmitchell/flux) A Clojure based Solr client.
-  - [solr-node-client](https://github.com/lbdremy/solr-node-client) A solr client for node.js. A solr client for indexing, adding, deleting,committing and searching documents within an Apache Solr installation
 
+  - [SolrJ](https://cwiki.apache.org/confluence/display/solr/Using+SolrJ) - Java Solr Client.
+  - [SolrNet](https://github.com/mausch/SolrNet) - .NET Solr Client. 
+    - Last Commit: 11/2019 / Checked: 3/28/2020.
+  - [Solr Scala Client](https://github.com/takezoe/solr-scala-client) - Scala Solr Client.
+    - Last Commit: 3/2020 / Checked: 3/28/2020.
+  - [solrs](https://github.com/inoio/solrs) - An async, non-blocking solr client for Java/Scala, providing a query interface like SolrJ.
+    - Last Commit: 2/2020 / Checked: 3/28/2020.
+  - [Scalikesolr](https://github.com/seratch/scalikesolr) Apache Solr. Client for Scala/Java.
+    - Last Commit: 1/2016 / Checked: 3/28/2020.
+  - [Solr Play Scala Client](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) - A Scala library in Play framework for indexing and searching documents within an Apache Solr.
+    - Last Commit: 6/2017 / Checked: 3/28/2020.
+  - [Python Solr Clients](https://cwiki.apache.org/confluence/display/solr/SolPython) - Reference to multiple Python Solr Clients. 
+    - Checked: 3/28/2020.
+  - [Python:SolrClient](https://github.com/moonlitesolutions/SolrClient) - A simple P{ython library for Solr; built in python3 with support.
+    - Last Commit: 11/2019 / Checked: 3/28/2020.
+  - [mysolr](http://mysolr.readthedocs.io/en/latest/) - mysolr was born to be a fast and easy-to-use client for Apache Solr’s API and because existing Python clients didn’t fulfill these conditions.
+    - Last Commit: 9/2014 / Checked: 3/28/2020.
+  - [rsolr](https://github.com/rsolr/rsolr) -  A Ruby client for Solr.
+    - Last Commit: 1/2020 / Checked: 3/28/2020.
+  - [Sunspot](http://sunspot.github.io/) - Solr-powered search for Ruby objects.
+    - Last Commit: 3/2020 / Checked: 3/28/2020.
+  - [Solarium](http://www.solarium-project.org/) - A Solr client library for PHP.
+    - Last Commit: 3/2020 / Checked: 3/28/2020.
+  - [Solr PHP extension](https://pecl.php.net/package/solr) - Allows you to communicate effectively with the Apache Solr Server in PHP.
+    - Last Commit: 7/2019 / Checked: 3/28/2020.
+  - [Go-Solr](https://github.com/rtt/Go-Solr) - A solr library written in Go. 
+    - Old code, author does not recommend using.
+    - Checked: 3/28/2020.
+  - [go-solr](https://github.com/vanng822/go-solr) - Solr client in Go, core admin, add docs, update, delete, search and more.
+    - Last Commit: 2/2020 / Checked: 3/28/2020.
+  - [Gora](https://github.com/wirelessregistry/gora) - A simple Solr client for Go.
+    - Last Commit: 2/2018 / Checked: 3/28/2020.
+  - [CPAN Apache::Solr](https://metacpan.org/release/Apache-Solr) - Perl Apache Solr.
+    - Last Commit: 1/2019 / Checked: 3/28/2020.
+  - [Solrclj](https://github.com/mlehman/solrclj) - A Clojure client for Apache Solr.
+    - Last Commit: 9/2013 / Checked: 3/28/2020.
+  - [flux](https://github.com/mwmitchell/flux) - A Clojure based Solr client.
+    - Last Commit: 1/2016 / Checked: 3/28/2020.
+  - [solr-node-client](https://github.com/lbdremy/solr-node-client) - A solr client for node.js - indexing, adding, deleting, committing and searching documents within an Apache Solr installation.
+    - Last Commit: 9/2019 / Checked: 3/28/2020.
 
 ## Resources
 
 ### Documentation
 
   - [Official Solr Documentation](http://lucene.apache.org/solr/resources.html#documentation)
-  - [Solr Reference Guide](https://cwiki.apache.org/confluence/display/solr/Apache+Solr+Reference+Guide)
-  - [Solr Community Wiki](https://wiki.apache.org/solr)
+  - [Official Solr Reference Guide](https://lucene.apache.org/solr/guide/)
+  - [Official Solr Community Wiki](https://cwiki.apache.org/confluence/display/solr)
 
 ### Books
 
 TODO : Need to get more books, and then order by reading level. 
 
   - [Apache Solr Enterprise Search Server, 3rd Edition](https://www.amazon.com/Apache-Solr-Enterprise-Search-Server/dp/1782161368/)
+    - Published: 2/2015.
   - [Scaling Big Data with Hadoop and Solr - Second Edition](https://www.amazon.com/Scaling-Big-Data-Hadoop-Solr/dp/1783553391/)
+    - Published: 4/2015.
   - [Apache Solr: A Practical Approach to Enterprise Search](https://www.amazon.com/Apache-Solr-Practical-Approach-Enterprise/dp/1484210719/)
+    - Published: 12/2015.
   - [Apache Solr Search Patterns](https://www.amazon.com/Apache-Search-Patterns-Jayant-Kumar/dp/1783981849/)
+    - Published: 4/2015.
   - [Apache Solr: Beginner's Guide](https://www.amazon.com/Apache-Beginners-Guide-Alfredo-Serafini/dp/1782162526/)
+    - Published: 12/2013.
   - [Apache Solr: Essentials](https://www.amazon.com/Apache-Solr-Essentials-Andrea-Gazzarini/dp/1784399647/)
+    - Published: 2/2015.
   - [Mastering Apache Solr]
   - [Solr in Action]
   - [Instant Apache Solr for Indexing Data How-to]
   - [Taming Text]
   - [Solr Cookbook - Third Edition]
   - [Scaling Solr](https://www.amazon.com/Scaling-Apache-Hrishikesh-Vijay-Karambelkar/dp/1783981741/)
+    - Published: 7/2014.
   - [Enterprise Lucene & Solr](https://www.amazon.com/Enterprise-Lucene-Solr-Lajos-Moczar/dp/0133521761/)
+    - Published: 3/2017.
   - [Apache Solr 4 Cookbook]
   - [Apache Solr 3.1 Cookbook]
   - [Apache Solr 5.x: Beginner's Guide](https://www.amazon.com/Apache-Solr-5-x-Beginners-Guide/dp/1785282433/)
+    - Published: Unknown.
   - [Einführung in Apache Solr (German)]
 
 ### Tutorials
 
-  - [Solr Quickstart](http://lucene.apache.org/solr/quickstart.html) 
-  - [Solr Tutorial](http://www.solrtutorial.com/) The goal of SolrTutorial.com is to provide a gentle introduction into Solr.
-  - [Solr tutorial](http://yonik.com/solr-tutorial/) by Yonik Seely, creator of Solr. 
-  - 
+  - [Official Solr Quickstart](https://lucene.apache.org/solr/guide/8_5/solr-tutorial.html) 
+  - [Solr Tutorial](http://www.solrtutorial.com/)
+  - [Solr tutorial](http://yonik.com/solr-tutorial/) - by Yonik Seely, creator of Solr. 
+    - Updated: 4/2016.
 
 ### Websites
 
-  - [Search Hub](https://lucidworks.com/resources/searchhub/#hub/) Search across millions of pages related to Search.
-  - [Solr Start](http://www.solr-start.com/) accelerating your proficiency with Solr search engine.
+  - [Search Hub](https://lucidworks.com/resources/searchhub/#hub/)
+  - [Solr Start](http://www.solr-start.com/)
 
 ### Blogs 
   
-  - [Solr'n Stuff](http://yonik.com/) Yonik Seely's Blog. Creator of Solr. 
-  - [Open Source Connections](http://opensourceconnections.com/blog/) Experts on Solr. 
-  - [Lucidworks Blog](https://lucidworks.com/blog/) Blog by Lucidworks. 
-  - [Sematext Blog](https://sematext.com/blog/) Blog by Sematext. 
+  - [Solr'n Stuff](http://yonik.com/) - Yonik Seely's Blog. Creator of Solr. 
+  - [Open Source Connections](http://opensourceconnections.com/blog/)
+  - [Lucidworks Blog](https://lucidworks.com/blog/)
+  - [Sematext Blog](https://sematext.com/blog/)
 
 
 ### Docker Images
-  - [solr](https://hub.docker.com/_/solr/) Official. Supports 5.x and 6.x.
-  - [2degrees/solr4](https://github.com/2degrees/docker-solr4) Supports 4.x.
-  - [search-stack](https://github.com/Appleseed/search-stack) Appleseed Search Stack Docker composition. Uses Solr, Elasticsearch, MongoDB, Mono, DotNet, ASPNet, NGINX, MySQL, PostgreSQL.
+  - [solr](https://hub.docker.com/_/solr/) - Docker Official Image.
+  - (DISCONTINUED) [2degrees/solr4](https://github.com/2degrees/docker-solr4)
+  - [search-stack](https://github.com/Appleseed/search-stack) - Appleseed Search Stack Docker composition. Uses Solr, Elasticsearch, MongoDB, Mono, DotNet, ASPNet, NGINX, MySQL, PostgreSQL.
+    - Last Commit: 7/2018 / Checked: 3/28/2020.
 
 ### Videos
   - TODO 
@@ -173,8 +206,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
-
-
-
