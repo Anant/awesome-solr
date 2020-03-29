@@ -7,13 +7,20 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 ## Contents
 
 - [General](#general)
-
-- [Packages](#packages)
-  - [Interfaces](#interfaces) User Interfaces for Solr.
-  - [Tools](#tools) Applications / Plugins that use Solr.
-  - [Projects](#projects) Other projects that use Solr.
-  - [Clients](#clients) Programming Language Specific Clients for Solr.
-  
+- [Interfaces](#interfaces) User Interfaces for Solr.
+- [Tools](#tools) Applications / Plugins that use Solr.
+- [Projects](#projects) Other projects that use Solr.
+- [Clients](#clients) Programming Language Specific Clients for Solr.  
+  - [Java](#java)
+  - [.NET](#.net)
+  - [Scala](#scala)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [PHP](#php)
+  - [Go](#go)
+  - [Perl](#perl)
+  - [Clojure](#clojure)
+  - [Node](#node)
 - [Resources](#resources)
   - [Documentation](#documentation) Official / unofficial documentation. 
   - [Books](#books) Popular books about Solr.
