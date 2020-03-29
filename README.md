@@ -139,34 +139,39 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
 ### Books
 
 TODO : Need to get more books, and then order by reading level. 
-
-  - [Apache Solr Enterprise Search Server, 3rd Edition](https://www.amazon.com/Apache-Solr-Enterprise-Search-Server/dp/1782161368/)
-    - Published: 2/2015.
-  - [Scaling Big Data with Hadoop and Solr - Second Edition](https://www.amazon.com/Scaling-Big-Data-Hadoop-Solr/dp/1783553391/)
-    - Published: 4/2015.
-  - [Apache Solr: A Practical Approach to Enterprise Search](https://www.amazon.com/Apache-Solr-Practical-Approach-Enterprise/dp/1484210719/)
-    - Published: 12/2015.
-  - [Apache Solr Search Patterns](https://www.amazon.com/Apache-Search-Patterns-Jayant-Kumar/dp/1783981849/)
-    - Published: 4/2015.
-  - [Apache Solr: Beginner's Guide](https://www.amazon.com/Apache-Beginners-Guide-Alfredo-Serafini/dp/1782162526/)
-    - Published: 12/2013.
-  - [Apache Solr: Essentials](https://www.amazon.com/Apache-Solr-Essentials-Andrea-Gazzarini/dp/1784399647/)
-    - Published: 2/2015.
-  - [Mastering Apache Solr]
-  - [Solr in Action](https://www.amazon.com/Solr-Action-Trey-Grainger/dp/1617291021)
-    - Published: 4/2014.
-  - [Instant Apache Solr for Indexing Data How-to]
-  - [Taming Text]
-  - [Solr Cookbook - Third Edition]
-  - [Scaling Solr](https://www.amazon.com/Scaling-Apache-Hrishikesh-Vijay-Karambelkar/dp/1783981741/)
-    - Published: 7/2014.
   - [Enterprise Lucene & Solr](https://www.amazon.com/Enterprise-Lucene-Solr-Lajos-Moczar/dp/0133521761/)
     - Published: 3/2017.
-  - [Apache Solr 4 Cookbook]
-  - [Apache Solr 3.1 Cookbook]
+  - [Relevant Search](https://www.amazon.com/Relevant-Search-applications-Solr-Elasticsearch/dp/161729277X)
+    - Published: 7/2016.
+  - [Apache Solr: A Practical Approach to Enterprise Search](https://www.amazon.com/Apache-Solr-Practical-Approach-Enterprise/dp/1484210719/)
+    - Published: 12/2015.
+  - [Scaling Big Data with Hadoop and Solr - Second Edition](https://www.amazon.com/Scaling-Big-Data-Hadoop-Solr/dp/1783553391/)
+    - Published: 4/2015.
+  - [Apache Solr Search Patterns](https://www.amazon.com/Apache-Search-Patterns-Jayant-Kumar/dp/1783981849/)
+    - Published: 4/2015.
+  - [Apache Solr Enterprise Search Server, 3rd Edition](https://www.amazon.com/Apache-Solr-Enterprise-Search-Server/dp/1782161368/)
+    - Published: 2/2015.
+  - [Apache Solr: Essentials](https://www.amazon.com/Apache-Solr-Essentials-Andrea-Gazzarini/dp/1784399647/)
+    - Published: 2/2015.
+  - [Solr Cookbook - Third Edition]
+    - Published: 1/2015.
+    - The [1st edition](https://www.amazon.com/Apache-Solr-3-1-Cookbook-Rafal/dp/1849512183) was published 7/2011, the [2nd edition](https://www.amazon.com/Apache-Solr-Cookbook-Rafal-Kuc/dp/1782161325/) was published 1/2013.
+  - [Scaling Solr](https://www.amazon.com/Scaling-Apache-Hrishikesh-Vijay-Karambelkar/dp/1783981741/)
+    - Published: 7/2014.    
+  - [Mastering Apache Solr](https://www.amazon.com/Mastering-Apache-Solr-practical-guide/dp/8192784509/)
+    - Published: 5/2014.
+  - [Solr in Action](https://www.amazon.com/Solr-Action-Trey-Grainger/dp/1617291021)
+    - Published: 4/2014.
+  - [Einführung in Apache Solr (German)](https://www.amazon.com/Einf%C3%BChrung-Apache-German-Markus-Klose-ebook/dp/B00J5SZP9E)
+    - Published: 3/2014.
+  - [Apache Solr: Beginner's Guide](https://www.amazon.com/Apache-Beginners-Guide-Alfredo-Serafini/dp/1782162526/)
+    - Published: 12/2013.
+  - [Instant Apache Solr for Indexing Data How-to](https://www.amazon.com/Instant-Apache-Solr-Indexing-Data/dp/1782164847)
+    - Published: 6/2013.
+  - [Taming Text](https://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X/)
+    - Published: 1/2013.
   - [Apache Solr 5.x: Beginner's Guide](https://www.amazon.com/Apache-Solr-5-x-Beginners-Guide/dp/1785282433/)
     - Published: Unknown.
-  - [Einführung in Apache Solr (German)]
 
 ### Tutorials
 
