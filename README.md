@@ -28,9 +28,8 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
   - [Apache Solr](http://lucene.apache.org/solr/)
   - [Wikipedia: Apache Solr](https://en.wikipedia.org/wiki/Apache_Solr)
 
-## Packages
 
-### Interfaces
+## Interfaces
 
   - [Appleseed Search Web User](https://github.com/Appleseed/search-web-user) - Part of the [Appleseed Portal open source project](https://appleseedapp.net/Home.aspx). 
     - Last Commit: 2/2018 / Checked: 3/28/2020.
@@ -61,12 +60,12 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
   - [Drupal Search API Solr Plugin](https://www.drupal.org/project/search_api_solr) - This module provides a Solr backend for the [Search API](https://www.drupal.org/project/search_api) module.
     - Last Commit: 2/2020 / Checked: 3/28/2020.
     
-### Tools
+## Tools
 
   - [Solr proxies](https://github.com/evolvingweb/ajax-solr/wiki/Solr-proxies) - Links to simple solr proxies implemented in PHP, Node.js, Java, or NGINX.
     - Last Commit: 4/2015 / Checked: 3/28/2020.
   
-### Projects
+## Projects
 
   - [Transformalize](https://github.com/dalenewman/Transformalize/) - Expedites mundane data processing tasks like cleaning, reporting, and denormalization. Can quickly process data from SQL/MySQL/PostgreSQL to Solr/ Elasticsearch.
     - Last Commit: 3/2020 / Checked: 3/28/2020.
@@ -85,11 +84,19 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
   - [SolrMQ](https://github.com/tangentlabs/SolrMQ) SolrMQ is a plugin for Solr that allows you to send updates to Solr using a AMQP messaging queue. We use the RabbitMQ library.
     - Last Commit: 8/2014 / Checked: 3/28/2020.
 
-### Clients
+## Clients
+
+### Java
 
   - [SolrJ](https://lucene.apache.org/solr/guide/8_5/using-solrj.html) - Java Solr Client.
+
+### .NET
+
   - [SolrNet](https://github.com/mausch/SolrNet) - .NET Solr Client. 
     - Last Commit: 11/2019 / Checked: 3/28/2020.
+
+### Scala
+
   - [Solr Scala Client](https://github.com/takezoe/solr-scala-client) - Scala Solr Client.
     - Last Commit: 3/2020 / Checked: 3/28/2020.
   - [solrs](https://github.com/inoio/solrs) - An async, non-blocking solr client for Java/Scala, providing a query interface like SolrJ.
@@ -98,33 +105,54 @@ A curated list of awesome [Apache Solr](http://lucene.apache.org/solr/) packages
     - Last Commit: 1/2016 / Checked: 3/28/2020.
   - [Solr Play Scala Client](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) - A Scala library in Play framework for indexing and searching documents within an Apache Solr.
     - Last Commit: 6/2017 / Checked: 3/28/2020.
+    
+### Python
+
   - [Python Solr Clients](https://cwiki.apache.org/confluence/display/solr/SolPython) - Reference to multiple Python Solr Clients. 
     - Checked: 3/28/2020.
   - [Python:SolrClient](https://github.com/moonlitesolutions/SolrClient) - A simple P{ython library for Solr; built in python3 with support.
     - Last Commit: 11/2019 / Checked: 3/28/2020.
   - [mysolr](http://mysolr.readthedocs.io/en/latest/) - mysolr was born to be a fast and easy-to-use client for Apache Solr’s API and because existing Python clients didn’t fulfill these conditions.
     - Last Commit: 9/2014 / Checked: 3/28/2020.
+    
+### Ruby
+
   - [rsolr](https://github.com/rsolr/rsolr) -  A Ruby client for Solr.
     - Last Commit: 1/2020 / Checked: 3/28/2020.
   - [Sunspot](http://sunspot.github.io/) - Solr-powered search for Ruby objects.
     - Last Commit: 3/2020 / Checked: 3/28/2020.
+    
+### PHP
+
   - [Solarium](http://www.solarium-project.org/) - A Solr client library for PHP.
     - Last Commit: 3/2020 / Checked: 3/28/2020.
   - [Solr PHP extension](https://pecl.php.net/package/solr) - Allows you to communicate effectively with the Apache Solr Server in PHP.
     - Last Commit: 7/2019 / Checked: 3/28/2020.
-  - [Go-Solr](https://github.com/rtt/Go-Solr) - A solr library written in Go. 
-    - Old code, author does not recommend using.
-    - Checked: 3/28/2020.
+    
+### Go
+
   - [go-solr](https://github.com/vanng822/go-solr) - Solr client in Go, core admin, add docs, update, delete, search and more.
     - Last Commit: 2/2020 / Checked: 3/28/2020.
   - [Gora](https://github.com/wirelessregistry/gora) - A simple Solr client for Go.
     - Last Commit: 2/2018 / Checked: 3/28/2020.
+  - [Go-Solr](https://github.com/rtt/Go-Solr) - A solr library written in Go. 
+    - Old code, author does not recommend using.
+    - Checked: 3/28/2020.
+    
+### Perl
+
   - [CPAN Apache::Solr](https://metacpan.org/release/Apache-Solr) - Perl Apache Solr.
     - Last Commit: 1/2019 / Checked: 3/28/2020.
-  - [Solrclj](https://github.com/mlehman/solrclj) - A Clojure client for Apache Solr.
-    - Last Commit: 9/2013 / Checked: 3/28/2020.
+    
+### Clojure
+
   - [flux](https://github.com/mwmitchell/flux) - A Clojure based Solr client.
     - Last Commit: 1/2016 / Checked: 3/28/2020.
+  - [Solrclj](https://github.com/mlehman/solrclj) - A Clojure client for Apache Solr.
+    - Last Commit: 9/2013 / Checked: 3/28/2020.
+
+### Node    
+
   - [solr-node-client](https://github.com/lbdremy/solr-node-client) - A solr client for node.js - indexing, adding, deleting, committing and searching documents within an Apache Solr installation.
     - Last Commit: 9/2019 / Checked: 3/28/2020.
 
